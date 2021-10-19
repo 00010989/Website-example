@@ -16,6 +16,10 @@
     margin-left: 142.5px;
   }
 
+  .nav_header {
+    display:fixed;
+}
+
   .nav-items {
     display: flex;
     position: relative;
